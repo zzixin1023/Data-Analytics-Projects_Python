@@ -31,7 +31,7 @@ Database: CDC mortality data between 2005 and 2015 from https://www.kaggle.com/c
 * NLP
 
 ## 5 Comments of Python Notebooks
-**1 Data Overview** file includes the codes for descriptive analysis;
+**1 Data Overview** folder includes the codes for descriptive analysis;
 
 In the **2.1 Cause of Death in the US** folder:\
 **2.1.1 Major Causes.ipynb** shows the solving process of the question - What are the major causes of death in the US (show your evidence)?;\
