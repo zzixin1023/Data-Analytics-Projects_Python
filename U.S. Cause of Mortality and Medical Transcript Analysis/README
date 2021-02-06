@@ -1,4 +1,11 @@
-1 Data Overview file includes the code for descriptive analysis;
+# Cause of Mortality and Medical Transcript Analysis
+* Descriptive Analysis
+* Time-series Analysis
+* Probability Estimation - Decesion Tree and Logistic Regression
+* NLP
+
+
+1 Data Overview file includes the codes for descriptive analysis;
 
 In the 2.1 Cause of Death in the US file, 2.1.1 Major Causes.ipynb shows the solving process of the question - What are the major causes of death in the US (show your evidence)?;
 2.1.2 Trend Analysis of Causes of Mortality.ipynb shows the codes of trend analysis of the major causes;
