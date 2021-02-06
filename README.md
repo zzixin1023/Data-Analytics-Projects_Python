@@ -12,3 +12,7 @@ Unsupervised Anomaly Detection
 * Probability Estimation - Decesion Tree and Logistic Regression
 * NLP
 
+# Airbnb Listing and Review Data Analysis
+* Market Analysis
+* Descriptive Analysis
+* NLP
