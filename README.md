@@ -1,5 +1,6 @@
 # Lending Club Loan Default Detection
 * Fully-connected Neural Network
+* CNN
 * Autoencoder
 * Variational Autoencoder
 
