@@ -1,4 +1,4 @@
-# Lending Club Loan Default Detection
+# Credit Fraud Detection
 * Fully-connected Neural Network
 * CNN\
 \
