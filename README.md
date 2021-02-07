@@ -1,4 +1,5 @@
 # Credit Fraud Detection
+* Feature Engineering
 * Fully-connected Neural Network
 * CNN\
 \
